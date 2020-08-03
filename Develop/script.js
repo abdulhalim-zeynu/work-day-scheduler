@@ -1,2 +1,2 @@
-moment().format('MMMM Do YYYY, h:mm:ss a');
-console.log(moment());
+var now = moment();
+console.log(now);
